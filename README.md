@@ -8,7 +8,10 @@ InsightFlow is an agentic AI data analyst built on top of the Amazon Sales datas
 
 ## Demo
 
-docs/demo.mp4
+
+
+https://github.com/user-attachments/assets/41cd539e-fcd0-413d-9823-57f594aec930
+
 
 ## How it works
 
