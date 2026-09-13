@@ -8,13 +8,13 @@ InsightFlow is an agentic AI data analyst built on top of the Amazon Sales datas
 
 ## Demo
 
-[Add your demo video / GIF here]
+docs/demo.mp4
 
 ## How it works
 
 InsightFlow follows the **ReAct (Reason + Act)** pattern: the model reasons about what the user needs, takes an action (calls a tool), observes the result, and either responds or takes another action.
 
-![Architecture diagram](flowchart_understanding.drawio (1).png)
+![Architecture diagram](docs/architecture.png)
 
 1. **User** sends a prompt (e.g. *"What's the total revenue?"*)
 2. **Model** decides which tool the task needs, and why
